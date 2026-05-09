@@ -1,4 +1,4 @@
-package ma.enset.digitalbankin;
+package ma.enset.digitalbanking;
 
 public class DigitalbankingApplication {
 }
